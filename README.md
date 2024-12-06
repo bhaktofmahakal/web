@@ -32,19 +32,6 @@ here's how i did the animation thingy
 - **Projects**: Showcase of my projects with descriptions and links to the live demos and source code.
 - **Contact**: Form to get in touch with me directly.
 <!-- 
-## Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/BHAVISHEK1/Portfolio.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Portfolio
-   ```
-3. Open `index.html` in your preferred web browser.
 
 ## Folder Structure
 
