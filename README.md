@@ -2,10 +2,6 @@
 
 Welcome to my portfolio website! This repository contains the source code for my personal portfolio, showcasing my skills, projects, and experience.
 
-## Live Demo
-
-Check out the live version of my portfolio [here](https://portfolio-utsavmishra.netlify.app/).
-
 ## Technologies Used
 
 - **HTML**: Structure of the web pages.
